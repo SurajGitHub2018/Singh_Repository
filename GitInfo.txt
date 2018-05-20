@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5642-AE62
+
+ Directory of C:\Users\SURAJ\Desktop\Gt_PRoject
+
+05/20/2018  04:14 AM    <DIR>          .
+05/20/2018  04:14 AM    <DIR>          ..
+05/20/2018  04:14 AM                 0 GitInfo.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  64,852,226,048 bytes free
